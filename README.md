@@ -1,5 +1,11 @@
 Arcade Game version 1.0 10/28/2015
 
+PROJECT LINK
+
+Check out the project by clicking the following link!
+
+http://aanyap.github.io/Classic-Arcade-Game-Clone/
+
 PROJECT DESCRIPTION
 --------------------
 
